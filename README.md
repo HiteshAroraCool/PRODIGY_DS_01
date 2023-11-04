@@ -1,6 +1,6 @@
 # PRODIGY_DS_01
 
-LinkedIn: https://www.linkedin.com/posts/hitesh-arora-luke_task1-datascience-tableau-activity-7126601589091352576-OlAa?utm_source=share&utm_medium=member_desktop
+LinkedIn: [Post](https://www.linkedin.com/posts/hitesh-arora-luke_task1-datascience-tableau-activity-7126601589091352576-OlAa?utm_source=share&utm_medium=member_desktop)
 
 Tableau: [Dashboard](https://public.tableau.com/app/profile/hitesh.arora/viz/SuperStoreDashboard_16965504954910/DashboardSales)
 
